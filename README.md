@@ -14,7 +14,7 @@ V1.02
 ถ้าหากพบบัค หรืออยากให้เสนอเพิ่มฟีเจอร์ต่างๆ สามารถส่งข้อความส่วนตัวมาได้เลย
 
 V1.03
-Update Player Name Auto-Save & Reset Player Name Button
+- Update Player Name Auto-Save & Reset Player Name Button
 
 V1.03
 - เพิ่ม บันทึกชื่อสมาชิคปาร์ตี้อัตโนมัติ และปุ่มรีเซ็ตรายชื่อ
